@@ -1,1 +1,2 @@
 To jest zawartosc pliku 1 
+"Dopisano nowa linie do pliku pierwszego" 
